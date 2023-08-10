@@ -7,10 +7,7 @@ package medical_database_function;
 
 import java.sql.SQLException;
 
-/**
- *
- * @author Killrun
- */
+
 public class Medical_Database_function {
     
     /**
